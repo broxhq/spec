@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://brox.dev/schemas/skill.schema.json",
+  "$id": "https://brox.sh/schemas/skill.schema.json",
   "title": "Brox Skill Manifest",
   "type": "object",
   "required": ["name", "version", "description", "license", "author"],
