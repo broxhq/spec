@@ -1,4 +1,15 @@
-# Brox Skill Specification
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/broxhq/.github/main/profile/assets/logo-dark.svg">
+  <img alt="brox" src="https://raw.githubusercontent.com/broxhq/.github/main/profile/assets/logo.svg" width="240">
+</picture>
+
+### Skill Specification
+
+</div>
+
+---
 
 The format that defines what an AI agent skill looks like and how `brox` packages, distributes, and installs them.
 
